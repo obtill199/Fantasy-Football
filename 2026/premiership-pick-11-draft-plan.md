@@ -1,6 +1,6 @@
 # Premiership 2026 Draft Execution Plan
 
-**League:** Premiership (ESPN League ID `1849933949`)  
+**League:** Premiership (ESPN)  
 **Draft slot:** Pick 11 of 12  
 **Date prepared:** September 6, 2026  
 **Goal:** Do not draft off raw projected points. Draft off scarcity, role, ADP gaps, and the 11/14 turn.
@@ -13,7 +13,6 @@
 |---|---|---|
 | Teams | 12 | RB dries up fast |
 | Scoring | Head to Head Points | Weekly ceiling matters; still need a floor |
-| Format | League Manager (private) | Custom scoring possible — confirm PPR on Scoring tab |
 | QB | 1 starter, 4 max | **1QB league. Do not take a QB in Rounds 1–2** |
 | Lineup lock | Inactive Substitution Only | Late picks must be startable, not dead roster |
 
@@ -28,7 +27,7 @@ If the league is half-PPR or 3 WR, the first two picks barely change. Mid-round 
 | Round | Overall pick | Notes |
 |---|---|---|
 | 1 | **1.11** | 10 players already gone |
-| 2 | **2.03 (pick 14)** | Only 2 picks between your first two |
+| 2 | **2.02 (pick 14)** | Only 2 picks between your first two |
 | 3 | **3.11 (pick 35)** | Then you wait **21 picks** |
 | 4 | **4.02 (pick 38)** | Mini-turn |
 | 5–6 | **5.11 / 6.02** | Second drought |
@@ -73,7 +72,7 @@ ESPN rooms draft RBs early. Typical 1.11 outcomes: Jefferson, Lamb, Achane, or B
 
 ---
 
-## Round 2 — pick 2.03 (14)
+## Round 2 — pick 2.02 (14)
 
 Complement. Don't copy.
 
@@ -116,14 +115,14 @@ If Brown + Hampton, or Henry + Brown, are both sitting there and the WRs left ar
 ### Script A — default winner: WR + RB
 
 - `1.11` Jefferson or Lamb
-- `2.03` Hampton / Chase Brown / Henry / Walker / Jeanty
+- `2.02` Hampton / Chase Brown / Henry / Walker / Jeanty
 
 At 35/38 take **WR + RB** or **WR + TE**.
 
 ### Script B — Super-hero if the room goes WR-crazy
 
 - `1.11` Cook / Achane / Barkley
-- `2.03` the other remaining featured back
+- `2.02` the other remaining featured back
 
 Then smash WRs at 35 and 38 (Pickens, Olave, Nabers, DeVonta, Rice, McConkey).
 
